@@ -2,7 +2,7 @@
 
 ### Web Development Task 001
 
-This repository contains the files and instructions for completing Web Development Task 001. Follow the steps below to clone the repository and get started.
+This repository contains the files and instructions for completing the Web Development deliverables for Week 1 and Week 2. Follow the steps below to clone the repository and get started.
 
 ## Prerequisites
 
@@ -24,13 +24,19 @@ Follow these steps to fork and clone the repository:
 
 To view the project locally, you can either open the project files in your code editor or open the HTML files in your browser.
 
-## Tasks
+## Week 1 Tasks
 
 - [ ] Change the < h1 > and < title > tags to read: Web Development Vocabulary.
 - [ ] Create an unordered list and add each vocabulary word and definition as a list item.
-- [ ] Make each vocabulary word/phrase ~bold or~ strong.
-- [ ] Sync your fork back to GitHub and turn in.
+- [ ] Make each vocabulary word **bold** and **italicize** words in the definition where appropriate. You **MUST** use semantic HTML tags.
+- [ ] Push your changes to your fork on GitHub and turn in.
+
+## Week 2 Tasks
+
+- [ ] Link the css file `css/style.css` in your `index.html` file. Remember to use relative paths.
+- [ ] Inside `css/style.css`, use css selectors to style your content in `index.html`
+- [ ] Push your changes to your fork on GitHub and turn in.
 
 ## Submitting Your Work
 
-After completing the task, be sure to commit your changes and push them back to your own forked repository and turn in the GitHub link in Google Classroom.
+After completing each week's set of task, be sure to commit your changes and push them back to your own forked repository and turn the link in on TopHat.
